@@ -1,3 +1,5 @@
+https://thi747.github.io/badger/
+
 # (pt-br) Gerador Dinâmico de Badge
 
 Este projeto cria badges SVG dinâmicos que podem ser baixados e utilizados em outros websites. A badge é gerada com base em parâmetros fornecidos na URL, permitindo personalizações como cor, rótulo e mensagem.
@@ -8,8 +10,7 @@ Este projeto cria badges SVG dinâmicos que podem ser baixados e utilizados em o
 - `label`: Texto do rótulo da badge.
 - `msg`: Texto da mensagem da badge.
 
-
- # (en-us) Dynamic Badge Generator
+# (en-us) Dynamic Badge Generator
 
 This project creates SVG badges dynamically to be downloaded and used in other websites. The badge is generated from the URL parameters, allowing to customize color, label and message.
 
